@@ -1,3 +1,5 @@
+migrated to gitlab: https://gitlab.com/l1905/maven-business/lookio-legacy/riak-js
+
 ## PLEASE NOTE
 
 I am no longer maintaining this project. You can find the new official repository at [senchalabs/riak-js](https://github.com/senchalabs/riak-js).
